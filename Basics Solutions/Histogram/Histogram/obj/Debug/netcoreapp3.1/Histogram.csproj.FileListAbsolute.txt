@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Histogram\Histogram\bin\Debug\netcoreapp3.1\Histogram.exe
+C:\Users\Magi\source\repos\Histogram\Histogram\bin\Debug\netcoreapp3.1\Histogram.deps.json
+C:\Users\Magi\source\repos\Histogram\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+C:\Users\Magi\source\repos\Histogram\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Histogram\Histogram\bin\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\Magi\source\repos\Histogram\Histogram\bin\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.genruntimeconfig.cache
+C:\Users\Magi\source\repos\Histogram\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\PetSHop\PetSHop\bin\Debug\netcoreapp3.1\PetSHop.exe
+C:\Users\Magi\source\repos\PetSHop\PetSHop\bin\Debug\netcoreapp3.1\PetSHop.deps.json
+C:\Users\Magi\source\repos\PetSHop\PetSHop\bin\Debug\netcoreapp3.1\PetSHop.runtimeconfig.json
+C:\Users\Magi\source\repos\PetSHop\PetSHop\bin\Debug\netcoreapp3.1\PetSHop.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\PetSHop\PetSHop\bin\Debug\netcoreapp3.1\PetSHop.dll
+C:\Users\Magi\source\repos\PetSHop\PetSHop\bin\Debug\netcoreapp3.1\PetSHop.pdb
+C:\Users\Magi\source\repos\PetSHop\PetSHop\obj\Debug\netcoreapp3.1\PetSHop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\PetSHop\PetSHop\obj\Debug\netcoreapp3.1\PetSHop.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\PetSHop\PetSHop\obj\Debug\netcoreapp3.1\PetSHop.AssemblyInfo.cs
+C:\Users\Magi\source\repos\PetSHop\PetSHop\obj\Debug\netcoreapp3.1\PetSHop.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\PetSHop\PetSHop\obj\Debug\netcoreapp3.1\PetSHop.dll
+C:\Users\Magi\source\repos\PetSHop\PetSHop\obj\Debug\netcoreapp3.1\PetSHop.pdb
+C:\Users\Magi\source\repos\PetSHop\PetSHop\obj\Debug\netcoreapp3.1\PetSHop.genruntimeconfig.cache

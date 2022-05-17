@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.exe
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.deps.json
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.runtimeconfig.json
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.dll
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.pdb
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.AssemblyInfo.cs
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.dll
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.pdb
+C:\Users\Magi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.genruntimeconfig.cache

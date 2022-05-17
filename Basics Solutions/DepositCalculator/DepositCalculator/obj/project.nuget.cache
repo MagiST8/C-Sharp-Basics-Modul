@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ng34GNxE0lcR1NoYVti7Per7hFlpSWWgMdJSoZ2c7OeXzVfJL9Eg6qhFpYH2mfcyA9rGAen8CDRV3UES/zong==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magi\\Desktop\\Programming Basics with C#\\DepositCalculator\\DepositCalculator\\DepositCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Magi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.csproj.AssemblyReference.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfoInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfo.cs
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.exe
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.deps.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.dev.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\Projects Creation\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\bin\Debug\netcoreapp3.1\Operations Between Numbers.exe
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\bin\Debug\netcoreapp3.1\Operations Between Numbers.deps.json
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\bin\Debug\netcoreapp3.1\Operations Between Numbers.runtimeconfig.json
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\bin\Debug\netcoreapp3.1\Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\bin\Debug\netcoreapp3.1\Operations Between Numbers.dll
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\bin\Debug\netcoreapp3.1\Operations Between Numbers.pdb
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.dll
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.pdb
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.genruntimeconfig.cache
+C:\Users\Magi\source\repos\Operations Between Numbers\Operations Between Numbers\obj\Debug\netcoreapp3.1\Operations Between Numbers.csproj.AssemblyReference.cache

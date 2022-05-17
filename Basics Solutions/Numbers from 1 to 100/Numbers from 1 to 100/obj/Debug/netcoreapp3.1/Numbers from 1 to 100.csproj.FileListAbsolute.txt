@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.exe
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.deps.json
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.runtimeconfig.json
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.dll
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.pdb
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.dll
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.pdb
+C:\Users\Magi\source\repos\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.genruntimeconfig.cache

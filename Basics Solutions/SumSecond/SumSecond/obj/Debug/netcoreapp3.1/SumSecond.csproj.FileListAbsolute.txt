@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\SumSecond\SumSecond\bin\Debug\netcoreapp3.1\SumSecond.exe
+C:\Users\Magi\source\repos\SumSecond\SumSecond\bin\Debug\netcoreapp3.1\SumSecond.deps.json
+C:\Users\Magi\source\repos\SumSecond\SumSecond\bin\Debug\netcoreapp3.1\SumSecond.runtimeconfig.json
+C:\Users\Magi\source\repos\SumSecond\SumSecond\bin\Debug\netcoreapp3.1\SumSecond.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\SumSecond\SumSecond\bin\Debug\netcoreapp3.1\SumSecond.dll
+C:\Users\Magi\source\repos\SumSecond\SumSecond\bin\Debug\netcoreapp3.1\SumSecond.pdb
+C:\Users\Magi\source\repos\SumSecond\SumSecond\obj\Debug\netcoreapp3.1\SumSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\SumSecond\SumSecond\obj\Debug\netcoreapp3.1\SumSecond.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\SumSecond\SumSecond\obj\Debug\netcoreapp3.1\SumSecond.AssemblyInfo.cs
+C:\Users\Magi\source\repos\SumSecond\SumSecond\obj\Debug\netcoreapp3.1\SumSecond.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\SumSecond\SumSecond\obj\Debug\netcoreapp3.1\SumSecond.dll
+C:\Users\Magi\source\repos\SumSecond\SumSecond\obj\Debug\netcoreapp3.1\SumSecond.pdb
+C:\Users\Magi\source\repos\SumSecond\SumSecond\obj\Debug\netcoreapp3.1\SumSecond.genruntimeconfig.cache

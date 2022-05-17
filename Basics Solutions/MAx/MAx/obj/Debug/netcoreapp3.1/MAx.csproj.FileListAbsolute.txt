@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\MAx\MAx\bin\Debug\netcoreapp3.1\MAx.exe
+C:\Users\Magi\source\repos\MAx\MAx\bin\Debug\netcoreapp3.1\MAx.deps.json
+C:\Users\Magi\source\repos\MAx\MAx\bin\Debug\netcoreapp3.1\MAx.runtimeconfig.json
+C:\Users\Magi\source\repos\MAx\MAx\bin\Debug\netcoreapp3.1\MAx.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\MAx\MAx\bin\Debug\netcoreapp3.1\MAx.dll
+C:\Users\Magi\source\repos\MAx\MAx\bin\Debug\netcoreapp3.1\MAx.pdb
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.AssemblyInfo.cs
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.dll
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.pdb
+C:\Users\Magi\source\repos\MAx\MAx\obj\Debug\netcoreapp3.1\MAx.genruntimeconfig.cache

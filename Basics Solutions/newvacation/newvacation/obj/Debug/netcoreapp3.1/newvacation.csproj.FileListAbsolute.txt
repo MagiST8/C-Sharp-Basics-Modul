@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\newvacation\newvacation\bin\Debug\netcoreapp3.1\newvacation.exe
+C:\Users\Magi\source\repos\newvacation\newvacation\bin\Debug\netcoreapp3.1\newvacation.deps.json
+C:\Users\Magi\source\repos\newvacation\newvacation\bin\Debug\netcoreapp3.1\newvacation.runtimeconfig.json
+C:\Users\Magi\source\repos\newvacation\newvacation\bin\Debug\netcoreapp3.1\newvacation.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\newvacation\newvacation\bin\Debug\netcoreapp3.1\newvacation.dll
+C:\Users\Magi\source\repos\newvacation\newvacation\bin\Debug\netcoreapp3.1\newvacation.pdb
+C:\Users\Magi\source\repos\newvacation\newvacation\obj\Debug\netcoreapp3.1\newvacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\newvacation\newvacation\obj\Debug\netcoreapp3.1\newvacation.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\newvacation\newvacation\obj\Debug\netcoreapp3.1\newvacation.AssemblyInfo.cs
+C:\Users\Magi\source\repos\newvacation\newvacation\obj\Debug\netcoreapp3.1\newvacation.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\newvacation\newvacation\obj\Debug\netcoreapp3.1\newvacation.dll
+C:\Users\Magi\source\repos\newvacation\newvacation\obj\Debug\netcoreapp3.1\newvacation.pdb
+C:\Users\Magi\source\repos\newvacation\newvacation\obj\Debug\netcoreapp3.1\newvacation.genruntimeconfig.cache

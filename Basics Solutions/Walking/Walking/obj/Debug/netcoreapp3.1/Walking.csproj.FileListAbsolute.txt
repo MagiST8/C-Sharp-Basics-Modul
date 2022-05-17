@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Walking\Walking\bin\Debug\netcoreapp3.1\Walking.exe
+C:\Users\Magi\source\repos\Walking\Walking\bin\Debug\netcoreapp3.1\Walking.deps.json
+C:\Users\Magi\source\repos\Walking\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.json
+C:\Users\Magi\source\repos\Walking\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Walking\Walking\bin\Debug\netcoreapp3.1\Walking.dll
+C:\Users\Magi\source\repos\Walking\Walking\bin\Debug\netcoreapp3.1\Walking.pdb
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.dll
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.pdb
+C:\Users\Magi\source\repos\Walking\Walking\obj\Debug\netcoreapp3.1\Walking.genruntimeconfig.cache

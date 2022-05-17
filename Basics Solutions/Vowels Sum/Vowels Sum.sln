@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowels Sum", "Vowels Sum\Vowels Sum.csproj", "{07DB688F-03E3-431F-9571-73E115EE160D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DB688F-03E3-431F-9571-73E115EE160D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DB688F-03E3-431F-9571-73E115EE160D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DB688F-03E3-431F-9571-73E115EE160D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DB688F-03E3-431F-9571-73E115EE160D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA8D61F-3238-4418-8D6D-F8262DF0A182}
+	EndGlobalSection
+EndGlobal

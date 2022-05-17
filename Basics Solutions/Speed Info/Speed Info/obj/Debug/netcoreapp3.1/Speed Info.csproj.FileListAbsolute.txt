@@ -1,0 +1,14 @@
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.exe
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.deps.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.dev.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.csproj.AssemblyReference.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfoInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfo.cs
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\Speed Info\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.genruntimeconfig.cache

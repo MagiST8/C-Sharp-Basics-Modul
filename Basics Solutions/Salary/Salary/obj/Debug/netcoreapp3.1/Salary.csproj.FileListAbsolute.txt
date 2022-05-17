@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+C:\Users\Magi\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+C:\Users\Magi\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+C:\Users\Magi\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+C:\Users\Magi\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\Magi\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

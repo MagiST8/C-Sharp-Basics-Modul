@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Cheking\Cheking\bin\Debug\netcoreapp3.1\Cheking.exe
+C:\Users\Magi\source\repos\Cheking\Cheking\bin\Debug\netcoreapp3.1\Cheking.deps.json
+C:\Users\Magi\source\repos\Cheking\Cheking\bin\Debug\netcoreapp3.1\Cheking.runtimeconfig.json
+C:\Users\Magi\source\repos\Cheking\Cheking\bin\Debug\netcoreapp3.1\Cheking.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Cheking\Cheking\bin\Debug\netcoreapp3.1\Cheking.dll
+C:\Users\Magi\source\repos\Cheking\Cheking\bin\Debug\netcoreapp3.1\Cheking.pdb
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.dll
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.pdb
+C:\Users\Magi\source\repos\Cheking\Cheking\obj\Debug\netcoreapp3.1\Cheking.genruntimeconfig.cache

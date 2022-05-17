@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\Magi\source\repos\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\Magi\source\repos\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\Magi\source\repos\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\Magi\source\repos\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache
+C:\Users\Magi\source\repos\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.AssemblyReference.cache

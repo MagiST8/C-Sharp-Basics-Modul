@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\bin\Debug\netcoreapp3.1\Fishingboat.exe
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\bin\Debug\netcoreapp3.1\Fishingboat.deps.json
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\bin\Debug\netcoreapp3.1\Fishingboat.runtimeconfig.json
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\bin\Debug\netcoreapp3.1\Fishingboat.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\bin\Debug\netcoreapp3.1\Fishingboat.dll
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\bin\Debug\netcoreapp3.1\Fishingboat.pdb
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.dll
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.pdb
+C:\Users\Magi\source\repos\Fishingboat\Fishingboat\obj\Debug\netcoreapp3.1\Fishingboat.genruntimeconfig.cache

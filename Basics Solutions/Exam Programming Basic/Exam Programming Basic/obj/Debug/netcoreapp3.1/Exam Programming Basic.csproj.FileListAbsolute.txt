@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\bin\Debug\netcoreapp3.1\Exam Programming Basic.exe
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\bin\Debug\netcoreapp3.1\Exam Programming Basic.deps.json
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\bin\Debug\netcoreapp3.1\Exam Programming Basic.runtimeconfig.json
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\bin\Debug\netcoreapp3.1\Exam Programming Basic.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\bin\Debug\netcoreapp3.1\Exam Programming Basic.dll
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\bin\Debug\netcoreapp3.1\Exam Programming Basic.pdb
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.dll
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.pdb
+C:\Users\Magi\source\repos\Exam Programming Basic\Exam Programming Basic\obj\Debug\netcoreapp3.1\Exam Programming Basic.genruntimeconfig.cache

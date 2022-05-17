@@ -1,0 +1,14 @@
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\bin\Debug\netcoreapp3.1\teks i chisla.exe
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\bin\Debug\netcoreapp3.1\teks i chisla.deps.json
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\bin\Debug\netcoreapp3.1\teks i chisla.runtimeconfig.json
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\bin\Debug\netcoreapp3.1\teks i chisla.runtimeconfig.dev.json
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\bin\Debug\netcoreapp3.1\teks i chisla.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\bin\Debug\netcoreapp3.1\teks i chisla.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.csproj.AssemblyReference.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.AssemblyInfoInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.AssemblyInfo.cs
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.csproj.CoreCompileInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\teks i chisla\teks i chisla\obj\Debug\netcoreapp3.1\teks i chisla.genruntimeconfig.cache

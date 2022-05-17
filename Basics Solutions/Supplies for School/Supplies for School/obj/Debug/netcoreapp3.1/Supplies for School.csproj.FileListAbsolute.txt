@@ -1,0 +1,14 @@
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.exe
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.deps.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.runtimeconfig.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.runtimeconfig.dev.json
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.csproj.AssemblyReference.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.AssemblyInfoInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.AssemblyInfo.cs
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.csproj.CoreCompileInputs.cache
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.dll
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.pdb
+C:\Users\Magi\Desktop\Programming Basics with C#\Supplies for School\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.genruntimeconfig.cache

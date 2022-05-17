@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Building\Building\bin\Debug\netcoreapp3.1\Building.exe
+C:\Users\Magi\source\repos\Building\Building\bin\Debug\netcoreapp3.1\Building.deps.json
+C:\Users\Magi\source\repos\Building\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.json
+C:\Users\Magi\source\repos\Building\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Building\Building\bin\Debug\netcoreapp3.1\Building.dll
+C:\Users\Magi\source\repos\Building\Building\bin\Debug\netcoreapp3.1\Building.pdb
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.dll
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.pdb
+C:\Users\Magi\source\repos\Building\Building\obj\Debug\netcoreapp3.1\Building.genruntimeconfig.cache

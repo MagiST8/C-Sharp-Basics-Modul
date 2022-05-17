@@ -1,0 +1,14 @@
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.exe
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.deps.json
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.json
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\Magi\source\repos\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.genruntimeconfig.cache
